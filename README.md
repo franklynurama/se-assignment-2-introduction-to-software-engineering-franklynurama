@@ -21,23 +21,25 @@ The Software Development Life Cycle (SDLC) is a structured process used by softw
 4. Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
-i. Planning: Identify the scope, objectives, and feasibility of the project. This phase includes resource allocation and scheduling.
-ii. Requirements Analysis: Gather and analyze the needs of users and stakeholders to define the software requirements.
-iii. Design: Create architectural and detailed designs of the software, including system architecture, data models, and interface designs.
-iv. Implementation (Coding): Write the actual code based on the design specifications.
-v. Testing: Verify that the software works as intended and is free of bugs. This includes unit testing, integration testing, system testing, and acceptance testing.
-vi. Deployment: Release the software to users and ensure it operates in the target environment.
-vii. Maintenance: Provide ongoing support and make necessary updates or improvements to the software.
+   i. Planning: Identify the scope, objectives, and feasibility of the project. This phase includes resource allocation and scheduling.
+   ii. Requirements Analysis: Gather and analyze the needs of users and stakeholders to define the software requirements.
+   iii. Design: Create architectural and detailed designs of the software, including system architecture, data models, and interface designs.
+   iv. Implementation (Coding): Write the actual code based on the design specifications.
+   v. Testing: Verify that the software works as intended and is free of bugs. This includes unit testing, integration testing, system testing, and acceptance testing.
+   vi. Deployment: Release the software to users and ensure it operates in the target environment.
+   vii. Maintenance: Provide ongoing support and make necessary updates or improvements to the software.
 
 5. Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
 Waterfall Model:
+
     Linear and Sequential: Each phase must be completed before the next begins.
     Documentation-Heavy: Emphasis on comprehensive documentation.
     Less Flexible: Changes are difficult to implement once a phase is completed.
     Preferred for: Projects with well-defined requirements and low risk of changes.
 
 Agile Model:
+
     Iterative and Incremental: Development occurs in small, iterative cycles called sprints.
     Collaboration-Focused: Continuous interaction with stakeholders and adaptive planning.
     Highly Flexible: Changes can be easily incorporated at any stage.
@@ -62,6 +64,7 @@ Explain the concept of modularity in software design. How does it improve mainta
 Modularity is the design principle of breaking down a software system into smaller, manageable, and independent modules. Each module performs a specific function and interacts with other modules through well-defined interfaces. 
 
 Modularity improves:
+
     Maintainability: Easier to update or fix parts of the system without affecting the whole.
     Scalability: New features or modules can be added with minimal impact on existing ones.
     Reusability: Modules can be reused across different projects, reducing development time and cost.
@@ -116,6 +119,7 @@ Maintenance is essential as it ensures the software remains functional, efficien
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
 Ethical issues in software engineering include:
+
     Privacy: Protecting user data from unauthorized access.
     Security: Ensuring software is secure and free from vulnerabilities.
     Intellectual Property: Respecting copyrights and licenses.
