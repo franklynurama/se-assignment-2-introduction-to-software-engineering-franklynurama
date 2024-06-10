@@ -21,13 +21,13 @@ The Software Development Life Cycle (SDLC) is a structured process used by softw
 4. Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
-   i. Planning: Identify the scope, objectives, and feasibility of the project. This phase includes resource allocation and scheduling.
-   ii. Requirements Analysis: Gather and analyze the needs of users and stakeholders to define the software requirements.
-   iii. Design: Create architectural and detailed designs of the software, including system architecture, data models, and interface designs.
-   iv. Implementation (Coding): Write the actual code based on the design specifications.
-   v. Testing: Verify that the software works as intended and is free of bugs. This includes unit testing, integration testing, system testing, and acceptance testing.
-   vi. Deployment: Release the software to users and ensure it operates in the target environment.
-   vii. Maintenance: Provide ongoing support and make necessary updates or improvements to the software.
+  - i. Planning: Identify the scope, objectives, and feasibility of the project. This phase includes resource allocation and scheduling.
+  - ii. Requirements Analysis: Gather and analyze the needs of users and stakeholders to define the software requirements.
+  - iii. Design: Create architectural and detailed designs of the software, including system architecture, data models, and interface designs.
+  - iv. Implementation (Coding): Write the actual code based on the design specifications.
+  - v. Testing: Verify that the software works as intended and is free of bugs. This includes unit testing, integration testing, system testing, and acceptance testing.
+  - vi. Deployment: Release the software to users and ensure it operates in the target environment.
+  - vii. Maintenance: Provide ongoing support and make necessary updates or improvements to the software.
 
 5. Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
@@ -72,10 +72,10 @@ Modularity improves:
 8. Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
-    Unit Testing: Testing individual components or functions for correctness. Helps catch bugs early.
-    Integration Testing: Testing the interactions between integrated units or modules. Ensures combined parts work together.
-    System Testing: Testing the complete and integrated software system to verify it meets the specified requirements.
-    Acceptance Testing: Testing conducted by end-users to determine if the software meets their needs and is ready for deployment.
+   - Unit Testing: Testing individual components or functions for correctness. Helps catch bugs early.
+   - Integration Testing: Testing the interactions between integrated units or modules. Ensures combined parts work together.
+   - System Testing: Testing the complete and integrated software system to verify it meets the specified requirements.
+   - Acceptance Testing: Testing conducted by end-users to determine if the software meets their needs and is ready for deployment.
 
 Testing is crucial as it ensures software quality, reliability, and performance, reducing the risk of defects and failures in the live environment.
 
